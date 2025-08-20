@@ -9,7 +9,7 @@ This project helps businesses identify high-value customers early and increase p
 
 <img width="1000" height="600" alt="Figure_2" src="https://github.com/user-attachments/assets/94edcc16-8b9e-46e2-b44c-f7cd9b39b5fb" />
 
-<img width="1280" height="620" alt="Figure_1" src="https://github.com/user-attachments/assets/17a4dcb5-ed80-4252-b26b-dbed938a1af5" />
+
 
 
 
